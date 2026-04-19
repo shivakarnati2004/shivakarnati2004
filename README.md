@@ -1,4 +1,4 @@
-div align="center">
+
 
 # 🎯 SHIVA KARNATI | Full-Stack Developer & AI/ML Specialist
 
