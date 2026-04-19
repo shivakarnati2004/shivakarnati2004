@@ -234,25 +234,6 @@ Code
 
 <div align="center">
 
-### 📈 PERFORMANCE METRICS
-
-</div>
-
-╔════════════════════════════════════════════════════════════╗ ║ GITHUB ANALYTICS ║ ╠════════════════════════════════════════════════════════════╣ ║ ║ ║ 📂 Repositories: 16+ ║ ║ ║ ║ 🔀 Pull Requests: 50+ ║ ║ 📝 Code Commits: 1000+ ║ ║ 🏆 Contributions: 1000+ in last year ║ ║ 🌍 Open Source: Actively contributing ║ ║ 📚 Documentation: Comprehensive ║ ║ 🧪 Test Coverage: 85%+ average ║ ║ ║ ╚════════════════════════════════════════════════════════════╝
-
-Code
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivakarnati2004&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivakarnati2004&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivakarnati2004&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Key Highlights & Achievements
 
