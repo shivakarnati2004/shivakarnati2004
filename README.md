@@ -365,7 +365,7 @@ Code
 
 ### 🎯 Key Highlights & Achievements
 
-🥇 LEARNING & MASTERY ├─ ✅ Mastered 10+ Technologies ├─ ✅ Built 50+ Projects (Web, AI, ML) ├─ ✅ 100+ Hours Monthly in Skill Development ├─ ✅ 4 Professional Certifications Earned └─ ✅ Active Open Source Contributor
+🥇 LEARNING & MASTERY ├─ ✅ Mastered 10+ Technologies ├─ ✅ Built  Projects (Web, AI, ML) ├─ ✅ 100+ Hours Monthly in Skill Development ├─ ✅ 4 Professional Certifications Earned └─ ✅ Active Open Source Contributor
 
 💼 PROFESSIONAL IMPACT ├─ ✅ Led Technical Architecture for 3+ Projects ├─ ✅ Mentored 5+ Junior Developers ├─ ✅ Code Review Lead on multiple teams ├─ ✅ Built systems for 10,000+ users └─ ✅ Reduced infrastructure costs 40%
 
@@ -448,21 +448,6 @@ Code
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-00C853?style=for-the-badge)
 ![Open to Opportunities](https://img.shields.io/badge/Open%20to-Opportunities-0077B5?style=for-the-badge)
 
-📋 How to Update Your README
-Since you already have a README.md file in your shivakarnati2004/shivakarnati2004 repository, you can:
-
-Clone your profile repo:
-bash
-git clone https://github.com/shivakarnati2004/shivakarnati2004.git
-cd shivakarnati2004
-Replace the content with the comprehensive markdown above
-
-Commit and push:
-
-bash
-git add README.md
-git commit -m "🎨 Update: Comprehensive profile with live project links, detailed challenges, and technical expertise"
-git push origin main 
 # PROFESSIONAL HEADER  
 ![Technologies](https://img.shields.io/badge/React-19-brightgreen)  ![Node.js](https://img.shields.io/badge/Node.js-Express-5-blue)  ![Database](https://img.shields.io/badge/PostgreSQL-blue)  ![Status](https://img.shields.io/badge/Status-Up%20to%20date-success)  
 
